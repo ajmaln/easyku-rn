@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "story",
-    "slug": "story",
+    "name": "easyku",
+    "slug": "easyku",
     "platforms": [
       "ios",
       "android",
@@ -23,6 +23,7 @@
     ],
     "ios": {
       "supportsTablet": true
-    }
+    },
+    "description": ""
   }
 }
